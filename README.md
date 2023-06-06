@@ -1,3 +1,3 @@
 # PythonDataScienceProjects
 
-This repository contains data science projects.
+This repository contains data science projects and practice.
